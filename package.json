@@ -1,6 +1,6 @@
 {
   "name": "@drivetribe/uniloc",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Universal JavaScript Route Parsing and Generation in 1.3KB compressed/minified",
   "main": "uniloc.js",
   "scripts": {
